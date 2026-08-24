@@ -118,7 +118,7 @@ If you encounter issues:
 - Include: your Pomona username, error message (if any)
 
 **Trouble with DUO:**
-- Contact ITS Help Desk: (909) 621-8000 ext. 72777
+- Contact ITS Help Desk: (909) 621-8061
 - Or: https://www.pomona.edu/its/
 - They handle DUO issues
 
