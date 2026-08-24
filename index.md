@@ -101,5 +101,5 @@ Ready to get started? Let's dive in!
 
 ---
 
-**Questions or suggestions?** Please contact its-hpc@pomona.edu or open an issue on our [GitHub repository](https://github.com/pomona-college-hpc/intro-jupyter).
+**Questions or suggestions?** Please contact its-hpc@pomona.edu or open an issue on our [GitHub repository](https://github.com/Pomona-College/hpc-intro-jupyter).
 

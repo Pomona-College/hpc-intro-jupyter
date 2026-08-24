@@ -420,7 +420,7 @@ This feedback shapes future workshops.
 - Pandas documentation: https://pandas.pydata.org/
 - Matplotlib tutorial: https://matplotlib.org/stable/tutorials/
 - Software Carpentries teaching tips: https://carpentries.org/
-- Sagehen HPC info: https://pomona-college-hpc.github.io/
+- Sagehen HPC info: https://pomona-college.github.io/
 
 ## Common Learner Questions
 

@@ -226,7 +226,7 @@ jupyter nbconvert --to pdf notebook.ipynb
 - **pandas docs**: https://pandas.pydata.org/
 - **matplotlib docs**: https://matplotlib.org/
 - **OnDemand**: https://ondemand.hpc.pomona.edu/
-- **Sagehen info**: https://pomona-college-hpc.github.io/
+- **Sagehen info**: https://pomona-college.github.io/
 
 ### Getting Help
 
