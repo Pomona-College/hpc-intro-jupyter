@@ -40,6 +40,12 @@
     <loc>https://pomona-college.github.io/hpc-intro-jupyter/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/images.html</loc>
+  </url>
+  <url>
     <loc>https://pomona-college.github.io/hpc-intro-jupyter/index.html</loc>
   </url>
   <url>
@@ -82,13 +88,31 @@
     <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://pomona-college.github.io/hpc-intro-jupyter/key-points.html</loc>
   </url>
   <url>
     <loc>https://pomona-college.github.io/hpc-intro-jupyter/profiles.html</loc>
