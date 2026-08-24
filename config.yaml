@@ -12,6 +12,7 @@ carpentry: 'incubator'
 
 # Overall title for pages
 title: 'Introduction to Jupyter Notebooks — Pomona College HPC Workshop Series'
+description: 'Running Jupyter Notebooks on Sagehen for interactive Python work, launched through the OnDemand portal and SLURM.'
 subtitle: 'Interactive Python development on the Pomona College HPC cluster'
 
 # Date the lesson was created (YYYY-MM-DD)
