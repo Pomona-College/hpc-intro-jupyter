@@ -1,0 +1,89 @@
+---
+# Carpentries Workbench Configuration
+# Introduction to Jupyter Notebooks on Sagehen
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor training for instance)
+# incubator: The Carpentries Incubator
+carpentry: 'incubator'
+
+# Overall title for pages
+title: 'Introduction to Jupyter Notebooks — Pomona College HPC Workshop Series'
+description: 'Running Jupyter Notebooks on Sagehen for interactive Python work, launched through the OnDemand portal and SLURM.'
+subtitle: 'Interactive Python development on the Pomona College HPC cluster'
+
+# Date the lesson was created (YYYY-MM-DD)
+created: '2026-03-06'
+
+# Comma-separated list of keywords for the lesson
+keywords: 'Pomona College, HPC, research computing, Jupyter, Notebooks, Python, Sagehen, interactive computing, data science'
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: 'stable'
+
+# License of the lesson
+license: 'CC-BY 4.0'
+
+# Link to the source repository for this lesson
+source: 'https://github.com/Pomona-College/hpc-intro-jupyter'
+url: 'https://pomona-college.github.io/hpc-intro-jupyter/'
+
+# Default branch of your lesson
+branch: 'main'
+
+# Who to contact if there are any issues
+contact: 'its-hpc@pomona.edu'
+
+# Maintainers
+authors:
+  - name: 'Andrew Wilson'
+    email: 'its-hpc@pomona.edu'
+    affiliation: 'Pomona College ITS - HPC'
+
+# Order of episodes in your lesson
+episodes:
+- 01-what-are-jupyter-notebooks.md
+- 02-launching-jupyter.md
+- 03-notebook-interface.md
+- 04-working-with-cells.md
+- 05-python-fundamentals.md
+- 06-data-analysis.md
+- 07-visualization.md
+- 08-kernels-and-environments.md
+- 09-sharing-and-exporting.md
+- 10-best-practices.md
+
+# Information for Learners
+learners:
+  - setup.md
+  - reference.md
+
+# Information for Instructors
+instructors:
+  - instructor-notes.md
+
+# Learner Profiles
+profiles:
+  - learner-profiles.md
+
+# Workbench settings
+workbench:
+  enable_comments: true
+  enable_google_analytics: false
+  analytics_package: 'google'
+
+# Default settings
+defaults:
+  layout: 'page'
+  permalink: 'index.html'
+
+# Timezone for scheduling
+timezone: 'America/Los_Angeles'
+
+# Version
+version: '1.0'
+
