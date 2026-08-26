@@ -1,12 +1,12 @@
 ---
-title: 'Launching Jupyter on Sagehen'
+title: 'Launching Jupyter on Sagehen HPC'
 teaching: 15
 exercises: 10
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- How do I launch Jupyter on the Sagehen cluster?
+- How do I launch Jupyter on the Sagehen HPC cluster?
 - What is the OnDemand portal and why use it?
 - How do I request the right amount of compute resources?
 

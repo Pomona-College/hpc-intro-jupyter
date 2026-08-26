@@ -8,7 +8,7 @@ exercises: 10
 
 - What does the JupyterLab interface look like?
 - How do I create my first notebook?
-- Where does my data live on Sagehen?
+- Where does my data live on Sagehen HPC?
 - How do I stop my session when done?
 
 ::::::::::::::::::::::::::::::::::::::::::::::
@@ -70,7 +70,7 @@ Congratulations! You now have a blank notebook running on Sagehen.
 
 ::::::::::::::::::::::::::::::::::::: callout
 
-### Sagehen storage paths
+### Sagehen HPC storage paths
 
 Your Jupyter session has access to all Sagehen storage:
 - `/rhome/<myusername>`: Your home directory (100 GB, backed up)

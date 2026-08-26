@@ -144,7 +144,7 @@ plt.show()
 %clear                      # Clear output
 ```
 
-### Sagehen Storage
+### Sagehen HPC Storage
 
 | Path | Size | Backed Up | Purpose |
 |------|------|-----------|---------|

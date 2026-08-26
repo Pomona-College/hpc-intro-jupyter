@@ -12,14 +12,14 @@ carpentry: 'incubator'
 
 # Overall title for pages
 title: 'Introduction to Jupyter Notebooks — Pomona College HPC Workshop Series'
-description: 'Running Jupyter Notebooks on Sagehen for interactive Python work, launched through the OnDemand portal and SLURM.'
+description: 'Running Jupyter Notebooks on Sagehen HPC for interactive Python work, launched through the OnDemand portal and SLURM.'
 subtitle: 'Interactive Python development on the Pomona College HPC cluster'
 
 # Date the lesson was created (YYYY-MM-DD)
 created: '2026-03-06'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'Pomona College, HPC, research computing, Jupyter, Notebooks, Python, Sagehen, interactive computing, data science'
+keywords: 'Pomona College, HPC, research computing, Jupyter, Notebooks, Python, Sagehen HPC, interactive computing, data science'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable

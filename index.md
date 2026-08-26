@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to Jupyter Notebooks on Sagehen'
+title: 'Introduction to Jupyter Notebooks on Sagehen HPC'
 subtitle: 'Interactive Python development on the Pomona College HPC cluster'
 ---
 
@@ -25,7 +25,7 @@ Jupyter Notebooks are powerful tools for computational research, and when combin
 
 - **Your Pomona College account** with HPC access
 - **A web browser** (Chrome, Firefox, Safari, or Edge)
-- **Access to the Sagehen cluster** (sagehen.hpc.pomona.edu)
+- **Access to the Sagehen HPC cluster** (sagehen.hpc.pomona.edu)
 - **Basic Python knowledge** (variables, functions, simple data structures)
 - **30-40 minutes** for the full workshop
 

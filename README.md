@@ -9,7 +9,7 @@ This workshop teaches interactive computing with Jupyter Notebooks on Sagehen HP
 ## Episodes
 
 1. **Introduction to Jupyter Notebooks**: Explore notebook benefits, anatomy of cells, and advantages for computational research
-2. **Launching Jupyter on Sagehen**: Access Jupyter through OnDemand, request compute resources, and understand cluster-based notebooks
+2. **Launching Jupyter on Sagehen HPC**: Access Jupyter through OnDemand, request compute resources, and understand cluster-based notebooks
 3. **Notebook Basics**: Master cells, markdown, code execution, and notebook navigation
 4. **Python in Notebooks**: Write executable code, create visualizations, and generate formatted output
 5. **Managing Environments**: Create custom Python environments, install packages, and manage dependencies

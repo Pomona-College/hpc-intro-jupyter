@@ -63,7 +63,7 @@ This workshop is designed for researchers and students at Pomona College who wan
 "My students learn data analysis with toy datasets. I want them to work with real climate or geological data, but my laptop and OnDemand storage can't handle it. If I could show them HPC+Jupyter, they'd understand scalable research better."
 
 **Expected Outcome After Workshop:**
-- Set up Jupyter on Sagehen for course use
+- Set up Jupyter on Sagehen HPC for course use
 - Create reproducible course materials and example notebooks
 - Use large datasets in teaching
 - Know how to create shared environments for students
