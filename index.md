@@ -87,7 +87,6 @@ If you encounter issues during the workshop:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 ## Before you begin
 
 Please complete the following before the workshop:
@@ -103,3 +102,8 @@ Ready to get started? Let's dive in!
 
 **Questions or suggestions?** Please contact its-hpc@pomona.edu or open an issue on our [GitHub repository](https://github.com/Pomona-College/hpc-intro-jupyter).
 
+## Acknowledgments
+
+Developed by **Andrew Wilson**, Director of Research Computing and Digital
+Scholarship at Pomona College, with **Andrei Motchenko**, who tested, edited
+and produced screenshots for the workshop series.
