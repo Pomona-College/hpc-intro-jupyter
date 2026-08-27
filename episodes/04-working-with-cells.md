@@ -22,6 +22,8 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::::::::::
 
+![A markdown cell before and after running it: the source on top, the formatted result below.](fig/12-markdown-rendered.png){alt='A JupyterLab notebook. The upper cell holds markdown source with a heading, Methods and Results sections and a bullet list. Below it the same cell is shown rendered as formatted text, with Analysis of Temperature Data as a heading, a short paragraph, and bulleted mean, maximum and minimum values.'}
+
 ## Cell Types in Jupyter
 
 A notebook is a sequence of **cells**. Each cell has a type that determines what happens when you run it.
