@@ -8,7 +8,7 @@ Before the workshop, please verify the following:
 
 ### 1. Pomona College HPC Account
 
-You need an active HPC account on the Sagehen cluster.
+You need an active HPC account on the Sagehen HPC cluster.
 
 :::::::::::::::: callout
 
@@ -102,7 +102,7 @@ If you want to get ahead:
 The workshop provides:
 
 - **6 interactive episodes** covering Jupyter from basics to best practices
-- **Code examples** you can run in JupyterLab on Sagehen
+- **Code examples** you can run in JupyterLab on Sagehen HPC
 - **Hands-on exercises** to practice what you learn
 - **Reference guide** with common commands and troubleshooting
 
@@ -135,7 +135,7 @@ If you encounter issues:
 - Check resources above for 1-2 hours of learning
 - Basic Python is essential; reach out if you need guidance
 
-## Troubleshooting Sagehen Access
+## Troubleshooting Sagehen HPC Access
 
 If you can't access OnDemand:
 

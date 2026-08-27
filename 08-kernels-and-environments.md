@@ -117,7 +117,7 @@ Python installation
 
 ## Creating conda Environments
 
-**conda** is Pomona's recommended tool for managing Python environments. On Sagehen, load conda first:
+**conda** is Pomona's recommended tool for managing Python environments. On Sagehen HPC, load conda first:
 
 ```bash
 module load miniconda3

@@ -8,7 +8,7 @@ exercises: 20
 
 - How do I explore and summarize data in a notebook?
 - How do I select, filter, and modify data with pandas?
-- How do I work with data stored on Sagehen?
+- How do I work with data stored on Sagehen HPC?
 - How do I keep a notebook reproducible as analysis grows?
 
 ::::::::::::::::::::::::::::::::::::::::::::::
@@ -67,7 +67,7 @@ A useful habit: in your first cell after loading, always print `df.shape`, `df.d
 
 ::::::::::::::::::::::::::::::::::::: callout
 
-## When pandas hits its limits on Sagehen
+## When pandas hits its limits on Sagehen HPC
 
 The login node has plenty of memory for most pandas work, but it is shared with every other user. A 20 GB DataFrame load on the login node hurts everyone. Two thresholds to remember:
 
@@ -130,11 +130,11 @@ df = df.drop(columns=['unwanted_col'])
 
 Notebook hygiene tip: every modification cell should produce output you can verify. After `drop_duplicates`, print `len(df)` to confirm the new size. After `rename`, print `df.columns`. Silent mutations are how notebook bugs survive into the SLURM job that fails three hours into a long run.
 
-## Working with Sagehen Data
+## Working with Sagehen HPC Data
 
 ::::::::::::::::::::::::::::::::::::: callout
 
-## A typical analysis workflow on Sagehen
+## A typical analysis workflow on Sagehen HPC
 
 ```python
 import pandas as pd
